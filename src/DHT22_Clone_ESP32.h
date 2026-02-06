@@ -13,7 +13,7 @@
  * Original: -2.5°C = 0x8019 (bit 15 = sign, bits 14-0 = 25)
  * Clone:    -2.5°C = 0xFFE7 (two's complement of -25)
  * 
- * https://github.com/YOUR_USERNAME/DHT22_Clone_ESP32
+ * https://github.com/IlliaZenitsu/DHT22_Clone_ESP32
  * 
  * License: MIT
  */
